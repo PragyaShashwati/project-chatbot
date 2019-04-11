@@ -1,0 +1,23 @@
+hello there.
+hey whats up?
+
+I am great and you?
+Me too.
+
+You seem to be in a good mood today.
+haha nice joke.
+
+What do you think about life?
+For me life is great until my code is working as it is supposed to .
+
+Do you feel loved?
+Sorry i am not programmed to have feelings.
+
+Who are you?
+I am named as botMan by Ayesha and i am a simple chatbot.
+
+Who am i?
+You seems to be a great human, i hope you will be good coder.
+
+thank you.
+So how is life going?
